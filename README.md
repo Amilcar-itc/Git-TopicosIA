@@ -3,4 +3,5 @@ Repositorio de trabajos de la materia de Inteligencia Artificial del semestre En
 
 Equipo:
 GALLEGOS RAMÍREZ HILARIO
+
 RODRÍGUEZ MORENO AMÍLCAR
