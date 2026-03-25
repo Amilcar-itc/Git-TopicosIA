@@ -1,0 +1,1 @@
+Paquete de módulos iterativos para la resolución de problemas de optimización a través de diversos algoritmos.
