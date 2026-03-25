@@ -1,0 +1,14 @@
+N Reynas
+
+Instrucciones
+
+Resolver el problema 8 reynas con el algoritmo de búsqueda Tabu.
+
+    1. Descripción del problema
+    2. Representación de P y S
+    Propuesta de algoritmo en seudocódigo o diagrama de flujo
+    8. Implementación en Python
+    7. Agregar a la implementación métricas de tiempo y cantidad de movimientos.
+    6. Reglas:
+        a. Se probara con un estado aleatorio.
+        b. Se someterá a un ejercicio de rendimiento en clase

@@ -1,0 +1,43 @@
+Sistema de enrutamiento para tiendas de autoservicio (Modulo II)
+
+Instrucciones
+
+Sistema de enrutamiento para tienda
+
+Objetivo  general
+Su objetivo principal para esta tarea es diseñar e implementar una solución computacional que utilice algoritmos heurísticos, específicamente Recocido simulado o Búsqueda tabú. Esta solución debe tener como objetivo optimizar las rutas de distribución de productos de abarrotes desde los centros de distribución hasta varias sucursales de una cadena de restaurantes ubicada en Culiacán, Sinaloa. Al hacer esto, ayudará a mejorar la eficiencia logística y reducir los costos operativos.
+
+Objetivos  específicos
+Para completar con éxito esta tarea, deberá lograr los siguientes objetivos específicos:
+1. Analizar el problema logístico
+    - Comience por comprender a fondo la distribución de productos comestibles en el área de estudio.
+        - Investigar los desafíos logísticos actuales que enfrenta la cadena de restaurantes.
+        - Identificar los factores clave que afectan la distribución, como los patrones de tráfico, los plazos de entrega y la perecibilidad del producto.
+2. Modele el problema como un caso de optimización combinatoria
+    - Defina claramente los parámetros de su problema.
+        - Crear un modelo matemático que represente las rutas de distribución como un problema de optimización combinatoria.
+        - Considere cómo se pueden combinar las diferentes rutas y las implicaciones de cada combinación en la eficiencia y el costo.
+3. Seleccionar y justificar el algoritmo heurístico 🔧
+    Investigue algoritmos de búsqueda de recocido simulado y tabú.
+        Compare sus fortalezas y debilidades en el contexto de su problema específico.
+        Elija el algoritmo que crea que es más adecuado para optimizar las rutas de distribución y proporcione una justificación detallada de su elección.
+4. Desarrollar una implementación computacional
+    - Usando un lenguaje de programación de su elección, comience a codificar el algoritmo heurístico seleccionado.
+        - Asegúrese de que su código esté bien estructurado e incluya comentarios para explicar su lógica.
+        - Pruebe su implementación con datos de muestra para asegurarse de que funciona correctamente.
+5. Evaluar el rendimiento de la solución
+    - Después de ejecutar las simulaciones, evalúe el rendimiento de la solución.
+        - Utilice métricas relevantes como la distancia total recorrida, el tiempo de entrega y los costos de combustible para evaluar la eficiencia.
+        - Compare los resultados de su algoritmo con los datos de referencia para determinar las mejoras.
+6. Documentar el proceso completo del proyecto
+    - Mantenga un registro detallado de cada paso que dé a lo largo del proyecto.
+        - Incluya su análisis, modelado, selección de algoritmos, implementación, resultados de simulación y evaluación del rendimiento.
+        - Prepare un informe final que resuma sus hallazgos e incluya los desafíos que enfrentó y cómo los superó.
+
+Documentos necesarios para el desarrollo
+Para ayudarle en el desarrollo de su solución, asegúrese de tener en cuenta los siguientes documentos:
+    - Tabla de distribución de la tienda: Esta tabla le proporcionará información esencial sobre las ubicaciones de los centros de distribución y las sucursales.
+    - Matriz de distancia: Utilice esta matriz para comprender las distancias entre varios puntos de su red de distribución. Esto será crucial para optimizar las rutas.
+    - Matriz de costos de combustible: Este documento lo ayudará a calcular los costos asociados con el consumo de combustible en función de las distancias recorridas.
+    - Instrucciones del proyecto: Consulte estas instrucciones a lo largo de su proyecto para asegurarse de cumplir con todos los requisitos.
+    - Mapa geoespacial actualizado: Utilice este mapa para visualizar ubicaciones y rutas. Puede ayudarlo a comprender mejor los desafíos geográficos involucrados en el proceso de distribución.

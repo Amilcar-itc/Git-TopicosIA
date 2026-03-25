@@ -1,0 +1,14 @@
+Tarea Bonus Modulo II
+
+Instrucciones
+
+Resolver los siguientes problemas
+
+Problema de programación de trabajos (JSSP)
+Problema de las N Reynas
+Árbol de expansión mínima (MST)
+Problema del agente viajero (TSP)
+
+El documento debe resolver:
+    • Descripción detallada del problema
+    • Representación.
