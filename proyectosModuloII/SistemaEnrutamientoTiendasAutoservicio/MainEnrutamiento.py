@@ -8,7 +8,7 @@ costos = generar_matriz_costos()
 rutas = generar_areas_de_distribucion()
 
 # Seleccion manual de ruta
-r = 9
+r = 8
 ruta = rutas[r]
 
 print(f"\n==============================")
