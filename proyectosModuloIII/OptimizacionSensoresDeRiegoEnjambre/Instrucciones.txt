@@ -1,0 +1,66 @@
+Instrucciones de mapeo de optimización de riego de enjambre de partículas
+Competencia
+Resolver problemas basados en técnicas de búsqueda en espacios de estados. 
+
+Descripción del proyecto
+Desarrollarás un proyecto que aplica el algoritmo de enjambre de partículas bioinspiradas (PSO) a la industria agrícola. El objetivo es optimizar la colocación de sensores en un campo agrícola para maximizar la eficiencia del riego. 
+
+El algoritmo debe encontrar la mejor distribución de sensores teniendo en cuenta las siguientes variables:
+
+Topografía del terreno
+Distribución de cultivos
+Variabilidad del contenido
+ de humedad del suelo
+Área de estudio: Región Guasave, Sinaloa
+Topografía
+Guasave es una región de llanura costera con altitudes entre 10 a 50 metros sobre el nivel del mar. 
+El terreno es mayormente plano, lo que es beneficioso para las prácticas agrícolas y los sistemas de riego. 
+Considere las microvariaciones en la elevación que pueden afectar la retención de humedad al colocar sensores. 
+Distribución de cultivos
+Los principales cultivos en Guasave incluyen:
+
+Grano de maíz (21.7% de la producción estatal) 
+Tomates rojos (9,9% de la producción estatal) 
+Chile verde (producción notable en ciclos de invierno) 
+Diferentes cultivos requieren diferentes niveles de humedad, por lo que la ubicación estratégica de los sensores es fundamental para optimizar el riego. 
+
+Variabilidad del suelo
+Los suelos de Guasave son naturalmente fértiles pero enfrentan degradación debido a las prácticas agrícolas intensivas. 
+Los temas clave incluyen:
+Disminución de la materia orgánica (del 1,5% a menos del 1% en 20 años) 
+Aumento de la salinidad en áreas  mal drenadas
+Erosión superficial en parcelas sin cubierta vegetal
+Estos factores afectan la retención de agua y la eficiencia del riego, y deben tenerse en cuenta al optimizar su algoritmo. 
+
+Entregables del proyecto
+Debe enviar lo siguiente:
+
+Código fuente: La implementación funcional del algoritmo PSO para la colocación de sensores. 
+Pruebas funcionales: Demuestre la efectividad de su algoritmo en varias configuraciones de terreno. 
+Documentación técnica: Debe incluir:
+Descripción del problema
+Justificación para usar PSO
+Diseño de algoritmos
+*Resultados
+Análisis de Eficiencia - Conclusiones 
+Objetivo general
+Optimizar la colocación de sensores de humedad en campos agrícolas en la región de Guasave, Sinaloa, utilizando el algoritmo Particle Swarm (PSO) para mejorar la eficiencia del riego y la gestión de los recursos hídricos. 
+
+Objetivos específicos
+Modele el problema de colocación del sensor como un espacio de búsqueda multidimensional. 
+Implementar el algoritmo PSO para encontrar configuraciones óptimas de sensores teniendo en cuenta la topografía, los cultivos y el suelo. 
+Evaluar el rendimiento del algoritmo a través de simulaciones y análisis de eficiencia hídrica. 
+Recomendaciones técnicas para el desarrollo
+Para desarrollar correctamente su proyecto, utilice las siguientes herramientas y marcos:
+
+Lenguaje de programación: Python 3.x 
+Bibliotecas científicas: NumPy, SciPy 
+Visualización de datos: Matplotlib, Seaborn 
+Marco de optimización bioinspirado: PySwarms 
+Entorno de desarrollo sugerido: Jupyter Notebook o Visual Studio Code 
+Objetivos de aprendizaje
+Comprender y aplicar los principios de los algoritmos bioinspirados, específicamente la técnica de optimización de enjambre de partículas (PSO).
+Analizar y modelar problemas agrícolas del mundo real utilizando métodos computacionales.
+Desarrollar habilidades de programación en Python y utilizar bibliotecas científicas para el análisis y visualización de datos.
+Evaluar la efectividad de los algoritmos a través de pruebas y análisis de rendimiento.
+Comunicar información técnica claramente a través de documentación y presentaciones.
